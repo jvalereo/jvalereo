@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
-<img align="center" alt="jonas-letters" height ="50" width ="70" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
+<img align="center" alt="jonas-letters" height ="50" width ="100" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
 </a>
 
 
