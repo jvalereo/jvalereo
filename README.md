@@ -5,7 +5,7 @@
 - I am currently working as a freelancer and I hope for new opportunities that will allow me to develop and promote technologies that help my evolution and that of society.
 
 
-# General information:
+### General information:
 - ’I’m currently working as a Computer Technician
 - currently I’m currently learning Python
 - ’I’m looking to collaborate with the world of technology
