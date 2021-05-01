@@ -14,7 +14,7 @@
 
 ### Contact me:
 
-< a href="https://www.linkedin.com/in/jonasvalereo/" target ="_blank">
+<a href="https://www.linkedin.com/in/jonasvalereo/" target ="_blank">
 <img align="center" alt="jonas-linkedin" height ="30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
 
