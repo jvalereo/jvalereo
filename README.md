@@ -18,7 +18,6 @@
 <img align="center" alt="jonas-linkedin" height ="50" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
 
-
 <a href="https://www.google.com/intl/pt/gmail/about/" target="_blank">
 <img align="center" alt="jonas-gmail" height ="50" width ="60" src ="https://user-images.githubusercontent.com/25933386/116790329-ea1de000-aa89-11eb-8231-7b63bfcf5894.png" style="max-width: 100%;">
 </a>
