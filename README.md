@@ -13,8 +13,9 @@
 - ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news
 
 ### Contact me:
+
 <a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
-<img align="center" alt="jonas-linkedin" height ="50" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
+<img align="center" alt="jonas-linkedin" height ="50" width ="60" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
 
 <a href="https://www.google.com/intl/pt/gmail/about/" target="_blank">
