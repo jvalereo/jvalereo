@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jvalereo/jvalereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
