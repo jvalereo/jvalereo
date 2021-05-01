@@ -2,7 +2,7 @@
 
 
 
-! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & theme = dark & ​​show_icons = true )
+! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = jvalereo & theme = dark & ​​show_icons = true )
 <!--
 **jvalereo/jvalereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
