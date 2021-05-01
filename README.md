@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo)](https://github.com/jvalereo/githubreadme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo)](https://github.com/jvalereo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
 
 
 <!--
