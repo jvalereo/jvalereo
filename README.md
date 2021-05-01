@@ -18,8 +18,8 @@
 <img align="center" alt="jonas-linkedin" height ="50" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
-<img align="center" alt="jonas-letters" height ="48" width ="150" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
+<a href="http://lattes.cnpq.br/1568460680158402/" target="_blank">
+<img align="center" alt="jonas-lattes" height ="48" width ="150" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
 </a>
 
 
