@@ -32,7 +32,7 @@
 
 ### Skills:
 
-<img align="center" alt="jonas-html5" height ="60" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;">
+<img align="center" alt="jonas-html5" height ="80" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
