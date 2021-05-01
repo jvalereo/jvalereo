@@ -22,6 +22,10 @@
 <img align="center" alt="jonas-gmail" height ="50" width ="60" src ="https://user-images.githubusercontent.com/25933386/116790329-ea1de000-aa89-11eb-8231-7b63bfcf5894.png" style="max-width: 100%;">
 </a>
 
+<a href="http://jonasvalereotecnicoinformatica.blogspot.com/" target="_blank">
+<img align="center" alt="jonas-blogger" height ="50" width ="60" src ="https://user-images.githubusercontent.com/25933386/116790467-aaa3c380-aa8a-11eb-8c84-c656a3fa8e9f.png" style="max-width: 100%;">
+</a>
+
 
 <a href="http://lattes.cnpq.br/1568460680158402/" target="_blank">
 <img align="center" alt="jonas-lattes" height ="48" width ="150" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
