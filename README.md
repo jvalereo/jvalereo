@@ -14,6 +14,10 @@
 
 ### Contact me:
 
+< a href="https://www.linkedin.com/in/jonasvalereo/" target ="_blank">
+<img align="center" alt="jonas-linkedin" height ="30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
+</a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
