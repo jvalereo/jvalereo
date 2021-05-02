@@ -41,6 +41,10 @@
 </a>
 
 <a href="#">
+<img align="center"  alt="jonas-jquery" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" style="max-width: 100%;"></img>
+</a>
+
+<a href="#">
 <img align="center"  alt="jonas-js" height ="80" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></img>
 </a>
   
