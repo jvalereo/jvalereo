@@ -14,7 +14,7 @@
 - 💬 Ask me about: Technology, books and knowledge in general
 - ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news
 
-### Contact me:
+### :mailbox:	Contact me:
 
 <a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
 <img align="center" alt="jonas-linkedin" height ="50" width ="50" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
