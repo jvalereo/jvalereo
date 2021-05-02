@@ -33,9 +33,9 @@
 ### Skills:
 
 
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="jonas-html5" height ="80" width ="100"  style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-html5" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></img>
 
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="jonas-css" height ="80" width ="100"  style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-css" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;"></img>
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
