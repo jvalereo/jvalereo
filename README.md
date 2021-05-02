@@ -1,4 +1,4 @@
-# Hi there I'm Jonas Valereo! 👋
+## Hi there I'm Jonas Valereo! 👋
 ## Welcome to My GitHub :sunglasses:	
 ## I live in :brazil: , Sao Paulo
 
