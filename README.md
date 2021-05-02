@@ -41,7 +41,7 @@
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-js" height ="150" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-js" height ="150" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></img>
 </a>
   
  
