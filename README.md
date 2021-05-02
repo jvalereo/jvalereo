@@ -8,7 +8,8 @@
 
 
 ### General information:
-- :desktop_computer:	’I’m currently working as a Computer Technician
+- :desktop_computer: ’I’m currently working as a Computer Technician
+- :man_student:	Education: Computer Technician
 - :books:	currently I’m currently learning Python
 - :globe_with_meridians: ’I’m looking to collaborate with the world of technology
 - 💬 Ask me about: Technology, books and knowledge in general
