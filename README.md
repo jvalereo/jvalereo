@@ -39,7 +39,12 @@
 <a href="#">
 <img align="center"  alt="jonas-css" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;"></img>
 </a>
+
+<a href="#">
+<img align="center"  alt="jonas-js" height ="80" width ="100" src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></img>
+</a>
   
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
