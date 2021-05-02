@@ -8,7 +8,7 @@
 
 
 ### General information:
-- ’I’m currently working as a Computer Technician
+-:computer: ’I’m currently working as a Computer Technician
 - currently I’m currently learning Python
 - ’I’m looking to collaborate with the world of technology
 - 💬 Ask me about: Technology, books and knowledge in general
