@@ -59,7 +59,12 @@
 <a href="#">
 <img align="center"  alt="jonas-Java" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;"></img>
 </a>
- 
+
+
+<a href="#">
+<img align="center"  alt="jonas-SqlServer" height ="80" width ="100" src ="https://user-images.githubusercontent.com/25933386/116798880-58829280-aaca-11eb-9b9f-7460afb6e255.png" style="max-width: 100%;"></img>
+</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
