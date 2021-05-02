@@ -65,7 +65,7 @@
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-SqlServer" height ="80" width ="80" src ="https://user-images.githubusercontent.com/25933386/116798880-58829280-aaca-11eb-9b9f-7460afb6e255.png" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-SqlServer" height ="80" width ="70" src ="https://user-images.githubusercontent.com/25933386/116798880-58829280-aaca-11eb-9b9f-7460afb6e255.png" style="max-width: 100%;"></img>
 </a>
 
 
