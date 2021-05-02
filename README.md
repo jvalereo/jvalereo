@@ -1,6 +1,6 @@
 ### Hi there I'm Jonas Valereo! 👋
-### Welcome to My GitHub :sunglasses:	
-### I live in :brazil: , Sao Paulo
+#### Welcome to My GitHub :sunglasses:	
+#### I live in :brazil: , Sao Paulo
 
 I am a technical programmer in IT and a lover of technologies, system development, front end and back end, and other IT areas. I work to make it easier and simpler to use technologies for everyone, I am sure that technology is the future and that one day this modernity will be, but globalized. I like to generate new ideas and develop simple solutions for any system.
 I am currently working as a freelancer and I hope for new opportunities that will allow me to develop and promote technologies that help my evolution and that of society.
@@ -9,10 +9,10 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 ### General information:
 <p> :desktop_computer: ’I’m currently working as a Computer Technician </p>
 <p> :man_student:	Education: Computer Technician </p>
-* :books:	currently I’m currently learning Python
-- :globe_with_meridians: ’I’m looking to collaborate with the world of technology
-- 💬 Ask me about: Technology, books and knowledge in general
-- ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news
+<p> :books:	currently I’m currently learning Python </p>
+<p> :globe_with_meridians: ’I’m looking to collaborate with the world of technology </p>
+<p> 💬 Ask me about: Technology, books and knowledge in general </p>
+<p> ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news </p>
 
 ### :mailbox:	Contact me:
 
