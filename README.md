@@ -49,8 +49,9 @@
 </a>
  
 <a href="#">
-<img align="center"  alt="jonas-.net" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
+ 
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
