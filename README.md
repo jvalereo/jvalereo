@@ -7,12 +7,12 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 
 
 ### General information:
-<p> :desktop_computer: ’I’m currently working as a Computer Technician </p>
-<p> :man_student:	Education: Computer Technician </p>
-<p> :books:	currently I’m currently learning Python </p>
-<p> :globe_with_meridians: ’I’m looking to collaborate with the world of technology </p>
-<p> 💬 Ask me about: Technology, books and knowledge in general </p>
-<p> ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news </p>
+- :desktop_computer: ’I’m currently working as a Computer Technician 
+- :man_student:	Education: Computer Technician 
+- :books:	currently I’m currently learning Python
+- :globe_with_meridians: ’I’m looking to collaborate with the world of technology
+- 💬 Ask me about: Technology, books and knowledge in general
+-  ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news
 
 ### :mailbox:	Contact me:
 
