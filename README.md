@@ -32,7 +32,7 @@
 <img align="center" alt="jonas-lattes" height ="48" width ="150" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
 </a>
 
-### :kite: Skills:
+### :rocket: Skills:
 
 <a href="#">
 <img align="center"  alt="jonas-html5" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></img>
