@@ -44,6 +44,11 @@
 <img align="center"  alt="jonas-js" height ="80" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></img>
 </a>
   
+
+<a href="#">
+<img align="center"  alt="jonas-.net" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="max-width: 100%;"></img>
+</a>
+ 
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
