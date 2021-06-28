@@ -15,11 +15,11 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 
 ### :mailbox:	Contact me:
 <a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
-<img align="center" alt="jonas-linkedin" height ="50" width ="50" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
+<img align="center" alt="jonas-linkedin" height ="50" width ="50" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%">
 </a>
 
 <a href="https://www.google.com/intl/pt/gmail/about/" target="_blank">
-<img align="center" alt="jonas-gmail" height ="50" width ="60" src ="https://user-images.githubusercontent.com/25933386/116790329-ea1de000-aa89-11eb-8231-7b63bfcf5894.png" style="max-width: 100%;">
+<img align="center" alt="jonas-gmail" height ="50" width ="60" src ="https://user-images.githubusercontent.com/25933386/116790329-ea1de000-aa89-11eb-8231-7b63bfcf5894.png" style="max-width: 100%">
 </a>
 
 <a href="http://jonasvalereotecnicoinformatica.blogspot.com/" target="_blank">
@@ -33,43 +33,43 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 ### :rocket: Skills:
 
 <a href="#">
-<img align="center"  alt="jonas-html5" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-html5" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%"></img>
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-css" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-css" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%"></img>
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-jquery" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-jquery" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" style="max-width: 100%"></img>
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-js" height ="80" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-js" height ="80" width ="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%"></img>
 </a>
   
 <a href="#">
-<img align="center"  alt="jonas-.net" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-.net" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="max-width: 100%"></img>
 </a>
  
 <a href="#">
-<img align="center"  alt="jonas-.NetCore" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-.NetCore" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%"></img>
 </a>
  
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%"></img>
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-Java" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Java" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%"></img>
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-Python" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Python" height ="80" width ="100" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%"></img>
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-SqlServer" height ="80" width ="100" src ="https://user-images.githubusercontent.com/25933386/116798880-58829280-aaca-11eb-9b9f-7460afb6e255.png" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-SqlServer" height ="80" width ="100" src ="https://user-images.githubusercontent.com/25933386/116798880-58829280-aaca-11eb-9b9f-7460afb6e255.png" style="max-width: 100%"></img>
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
