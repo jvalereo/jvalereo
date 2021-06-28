@@ -14,11 +14,11 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 -  ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news
 
 ### :mailbox:	Contact me:
-<a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
+[go]<a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
 <img align="center" alt="jonas-linkedin" height ="50" width ="50" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%">
 </a>
 
-<a href="https://www.google.com/intl/pt/gmail/about/" target="_blank">
+[go]<a href="https://www.google.com/intl/pt/gmail/about/" target="_blank">
 <img align="center" alt="jonas-gmail" height ="50" width ="60" src ="https://user-images.githubusercontent.com/25933386/116790329-ea1de000-aa89-11eb-8231-7b63bfcf5894.png" style="max-width: 100%">
 </a>
 
