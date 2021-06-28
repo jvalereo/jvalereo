@@ -32,6 +32,8 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 <img align="center" alt="jonas-lattes" height ="48" width ="150" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
 </a>
 
+##
+
 ### :rocket: Skills:
 
 <a href="#">
