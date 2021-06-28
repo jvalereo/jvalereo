@@ -5,7 +5,6 @@
 <p> I am a technical programmer in IT and a lover of technologies, system development, front end and back end, and other IT areas. I work to make it easier and simpler to use technologies for everyone, I am sure that technology is the future and that one day this modernity will be, but globalized. I like to generate new ideas and develop simple solutions for any system.
 I am currently working as a freelancer and I hope for new opportunities that will allow me to develop and promote technologies that help my evolution and that of society. </p>
 
-
 ### General information:
 - :desktop_computer: ’I’m currently working as a Computer Technician 
 - :man_student:	Education: Computer Technician 
