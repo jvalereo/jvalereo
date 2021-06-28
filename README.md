@@ -14,7 +14,7 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 -  ⚡ Fun fact: I love to know new technologies, learn how it works, technological places and global news
 
 ### :mailbox:	Contact me:
-[go]<a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank">
+<a href="https://www.linkedin.com/in/jonasvalereo/" target="_blank" rel="noopener">
 <img align="center" alt="jonas-linkedin" height ="50" width ="50" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%">
 </a>
 
