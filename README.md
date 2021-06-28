@@ -74,6 +74,7 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo)](https://github.com/jvalereo/api/top-langs?username=jvalereo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereoghazra&layout=compact)](https://github.com/jvalereo/github-readme-stats)
+
 
 
