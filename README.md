@@ -73,7 +73,6 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 <img align="center"  alt="jonas-SqlServer" height ="80" width ="100" src ="https://user-images.githubusercontent.com/25933386/116798880-58829280-aaca-11eb-9b9f-7460afb6e255.png" style="max-width: 100%"></img>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalereo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo&layout=compact&theme=dark&langs_count=10)](https://github.com/jvalereo/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalereo&layout=compact)](https://github.com/jvalereo/github-readme-stats)
