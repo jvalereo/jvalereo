@@ -5,10 +5,8 @@
 <a href="#">
 <img align="center"  alt="jonas-Layout" height ="420" width ="1000" src ="https://user-images.githubusercontent.com/25933386/124159343-6ffddd80-da71-11eb-80b1-930fb541b44c.jpg"></img>
 </a>
-![LSpcCMae5_1256x620__1](https://user-images.githubusercontent.com/25933386/124159234-4a70d400-da71-11eb-96d0-bbec8ee9e0ca.jpg)
-![09111156392166](https://user-images.githubusercontent.com/25933386/124159343-6ffddd80-da71-11eb-80b1-930fb541b44c.jpg)
 
-##
+### About:
 
 <p> I am a technical programmer in IT and a lover of technologies, system development, front end and back end, and other IT areas. I work to make it easier and simpler to use technologies for everyone, I am sure that technology is the future and that one day this modernity will be, but globalized. I like to generate new ideas and develop simple solutions for any system.
 I am currently working as a freelancer and I hope for new opportunities that will allow me to develop and promote technologies that help my evolution and that of society. </p>
