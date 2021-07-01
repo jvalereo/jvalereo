@@ -2,6 +2,12 @@
 #### Welcome to My GitHub :sunglasses:	
 #### I live in :brazil: , Sao Paulo
 
+<a href="#">
+<img align="center"  alt="jonas-Layout" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/124158218-06c99a80-da70-11eb-8c53-b76d51e8db0e.jpg"></img>
+</a>
+
+##
+
 <p> I am a technical programmer in IT and a lover of technologies, system development, front end and back end, and other IT areas. I work to make it easier and simpler to use technologies for everyone, I am sure that technology is the future and that one day this modernity will be, but globalized. I like to generate new ideas and develop simple solutions for any system.
 I am currently working as a freelancer and I hope for new opportunities that will allow me to develop and promote technologies that help my evolution and that of society. </p>
 
