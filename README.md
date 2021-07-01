@@ -3,7 +3,7 @@
 #### I live in :brazil: , Sao Paulo
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="300" width ="1000" src ="https://user-images.githubusercontent.com/25933386/124158927-e8b06a00-da70-11eb-8953-fb5b31892db4.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="420" width ="1000" src ="https://user-images.githubusercontent.com/25933386/124158927-e8b06a00-da70-11eb-8953-fb5b31892db4.jpg"></img>
 </a>
 
 ##
