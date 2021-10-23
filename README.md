@@ -36,7 +36,6 @@ I am currently working as a freelancer and I hope for new opportunities that wil
 <a href="http://lattes.cnpq.br/1568460680158402/" target="_blank">
 <img align="center" alt="jonas-lattes" height ="48" width ="150" src ="https://user-images.githubusercontent.com/25933386/116789880-9f9b6400-aa87-11eb-9a6e-c8947d5511c9.png" style="max-width: 100%;">
 </a>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonasvalereo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jonasvalereo?trk=profile-badge">JONAS VALEREO</a></div>
 
 ### :rocket: Skills:
 
